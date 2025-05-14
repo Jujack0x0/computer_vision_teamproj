@@ -1,7 +1,7 @@
 # computer_vision_teamproj
-[![7 BEST COMPUTER VISION PROJECT IDEAS - YouTube](https://tse1.mm.bing.net/th?id=OIP.kFK74lmR6Dr81f2EBF4EkwHaEK\&pid=Api)](https://www.youtube.com/watch?v=hppq8abaxzc)
 
-프로젝트의 목적은 컴퓨터 비전 기술을 활용하여 특정 문제를 해결하는 것입니다. 이 프로젝트는 팀 프로젝트로 진행되었으며, 다양한 컴퓨터 비전 기법과 도구를 활용하여 구현되었습니다.
+
+프로젝트의 목적은 컴퓨터 비전 기술을 활용하여 잔반량을 계산하고 앞으로 필요한 잔반을 예측하는 프로젝트입니다.
 
 ---
 
@@ -9,8 +9,8 @@
 
 * **프로젝트 명**: Computer Vision Team Project
 * **목표**: 컴퓨터 비전 기술을 활용하여 특정 문제를 해결하는 애플리케이션 개발
-* **팀원**: \[박정호], \[김현준], \[남승욱], \[박지원]
-* **기간**: \[2024.10.1~2024.11.6]\
+* **팀원**: \박정호, \김현준, \남승욱, \박지원
+* **기간**: \[2024.10.1~2024.11.6]
 
 ---
 
