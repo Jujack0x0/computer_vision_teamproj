@@ -60,7 +60,7 @@ computer_vision_teamproj/
 
 ---
 
-## 🚀 실행 방법
+##  실행 방법
 
 1. 필요한 라이브러리 설치:
 
